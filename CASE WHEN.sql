@@ -12,7 +12,8 @@ INSERT INTO CustomerData VALUES
 (2, 'Priya', NULL, '98765', 'Bangalore', NULL),
 (3, 'Arjun', 'arjun@example.com', NULL, 'Hyderabad', 1500.00),
 (4, 'Meena', NULL, NULL, 'Mumbai', 2500.00),
-(5, 'Karthik', 'karthik@example.com', '98765', NULL, 3000.00);
+(5, 'Karthik', 'karthik@example.com', '98765', NULL, 3000.00),
+(6, 'Narean', 'narean@example.com', '98765', NULL, 2700.00);
 
 
 SELECT 
